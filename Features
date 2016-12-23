@@ -1,0 +1,5 @@
+Asteroids will change directions if the collide with each other.
+Asteroids will speed up as game progresses.
+Added a lives feature.
+When lives run out game will end.
+Made asteroids rotate.
